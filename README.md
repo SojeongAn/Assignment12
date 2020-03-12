@@ -1,1 +1,1 @@
-This script demonstrates the line fitting using polynomial function.
+This script demonstrates the Polynomial-function
